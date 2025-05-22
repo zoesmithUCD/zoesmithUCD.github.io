@@ -8,12 +8,12 @@
 ## Computer shortcuts
 
 
-<video width="320" height="240" controls loop="" muted="" autoplay="">
+<video width="520" height="440" controls loop="" muted="" autoplay="">
     <source src="https://github.com/user-attachments/assets/5a489ebb-a250-41f1-a0c6-918cfc7b6c04">
 </video>
 
 
-<video width="320" height="240" controls loop="" muted="" autoplay="">
+<video width="420" height="340" controls loop="" muted="" autoplay="">
     <source src="https://github.com/user-attachments/assets/a738fb82-7b81-40b0-abe8-4c4d8c116c75">
 </video>
 
