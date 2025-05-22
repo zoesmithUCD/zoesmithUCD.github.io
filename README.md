@@ -8,7 +8,7 @@
 ## Computer shortcuts
 
 
-<video width="720" height="540" controls loop="" muted="" autoplay="">
+<video width="720" height="440" controls loop="" muted="" autoplay="">
     <source src="https://github.com/user-attachments/assets/5a489ebb-a250-41f1-a0c6-918cfc7b6c04">
 </video>
 
@@ -18,17 +18,17 @@
 </video>
 
 
-<video width="320" height="240" controls loop="" muted="" autoplay="">
+<video width="720" height="440" controls loop="" muted="" autoplay="">
     <source src="https://github.com/user-attachments/assets/925f4f59-ff14-4acc-88e7-d2b50d23a74c">
 </video>
 
 
-<video width="320" height="240" controls loop="" muted="" autoplay="">
+<video width="720" height="440" controls loop="" muted="" autoplay="">
     <source src="https://github.com/user-attachments/assets/e6efeeeb-c63e-4173-af58-0b75eb20ed43">
 </video>
 
 
-<video width="320" height="240" controls loop="" muted="" autoplay="">
+<video width="720" height="440" controls loop="" muted="" autoplay="">
     <source src="https://github.com/user-attachments/assets/7e2fe559-58bc-42bf-bd72-6a9fdad71045">
 </video>
 
@@ -79,13 +79,17 @@ You can also easily see a list of shortcuts while in R-studios by clicling **Too
 
 
 ### 1) Running your code
-https://github.com/user-attachments/assets/8dd5f53e-f22d-4747-8247-3d18a2a529a5
+<video width="720" height="440" controls loop="" muted="" autoplay="">
+    <source src="https://github.com/user-attachments/assets/8dd5f53e-f22d-4747-8247-3d18a2a529a5">
+</video>
 
 You are able to use **Ctrl+Enter** (**Command+return** for macbook users) to easily run code in RMarkdown. This shortcut works from anywhere in the code line, so your cursor can be anywhere in the code and the entire command will run. You Don't have to be in the firts line of the command. 
 
 
 ### 2) Interting a Code Chunk
-https://github.com/user-attachments/assets/331fd760-12a5-4c5d-8027-b204ed0b209a
+<video width="720" height="440" controls loop="" muted="" autoplay="">
+    <source src="https://github.com/user-attachments/assets/331fd760-12a5-4c5d-8027-b204ed0b209a">
+</video>
 
 By using **Ctrl+Alt+I** (**Command+Option+I** for mackbook users), you can easilty make a new coding chunck in your markdown file. This will become more useful for when you get in to writing your final project. 
 
