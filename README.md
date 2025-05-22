@@ -37,39 +37,39 @@
 ### Additional Computer Shortcuts
 #### (If you want to be fancy) 
 
--   Ctrl+Z: undo
+-   **Ctrl+Z**: undo
 
--   Ctrl+Y: redo
+-   **Ctrl+Y**: redo
 
-    -   Note: in RStudio, the default shortcut for redo is Ctrl+Shift+Z, not Ctrl+Y, because Ctrl+Y is assigned to a different command. You can change this (and other shortcuts) by navigating to Tools → Modify keyboard shortcuts… → search “Paste Last Yank” → disable it (i.e. click in the “Shortcut” section and delete the existing shortcut), or following the steps from the R team [here](https://support.posit.co/hc/en-us/articles/206382178-Customizing-Keyboard-Shortcuts-in-the-RStudio-IDE)
+    -   Note: in RStudio, the default shortcut for redo is **Ctrl+Shift+Z**, not **Ctrl+Y**, because **Ctrl+Y** is assigned to a different command. You can change this (and other shortcuts) by navigating to Tools → Modify keyboard shortcuts… → search “Paste Last Yank” → disable it (i.e. click in the “Shortcut” section and delete the existing shortcut), or following the steps from the R team [here](https://support.posit.co/hc/en-us/articles/206382178-Customizing-Keyboard-Shortcuts-in-the-RStudio-IDE)
     
--   Alt+D: selects the address bar (e.g. Google)
+-   **Alt+D**: selects the address bar (e.g. Google)
 
--   Ctrl+Backspace: delete the word left of the cursor
+-   **Ctrl+Backspace**: delete the word left of the cursor
 
--   Win+(1-9): runs the program listed in the task bar according to its order. If the program is already running, it switches to it
+-   **Win+(1-9)**: runs the program listed in the task bar according to its order. If the program is already running, it switches to it
 
     -   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdMlo04cz9pWg6_r9i3tLLBzQfRincxfLOd4wnNZ51gTOq8CAFkTDCWozDWkmy-FiaaSMfs8cGvDD0i-MAKRq1Eyt02EwRGNKLWINpk-kOJaVJZ4RNA0IOpzKvIw465EoG7NF8h?key=YWdbpxiSjg1ykqZRVzbV5svS)
 
-        -   Win+1 will open File Explorer
+        -   **Win+1** will open File Explorer
 
-        -   Win+7 will switch to RStudio
+        -   **Win+7** will switch to RStudio
 
--   Win+← (left arrow): snap window to the left
+-   **Win+←** (left arrow): snap window to the left
 
     -   Useful if you want to view multiple windows at once
 
--   Win+→ (right arrow): snap window to the right
+-   **Win+→** (right arrow): snap window to the right
 
--   Win+↓ (down arrow): make current window windowed
+-   **Win+↓** (down arrow): make current window windowed
 
-    -   Press Win+↓ an additional time to minimize a window
+    -   Press **Win+↓** an additional time to minimize a window
 
-        -   Command+Control+F for macbooks
+        -   **Command+Control+F** for macbooks
 
--   Win+Shift+S: opens a screenshot tool to take partial screenshots
+-   **Win+Shift+S**: opens a screenshot tool to take partial screenshots
 
-    -   Command+Shift+4 for macbooks
+    -   **Command+Shift+4** for macbooks
  
 ## R-related shortcuts
 
@@ -99,4 +99,4 @@ By using **Ctrl+Alt+I** (**Command+Option+I** for mackbook users), you can easil
 
       -  **Command+Shift+M** for macbook users
 
-          -  Note: this piping took is not the same one you will be introduced to in lab. It will look like this %>% insted of this |>. (ask Rob about the diferences) 
+          -  Note: this piping took is not the same one you will be introduced to in lab. It will look like this **%>%** insted of this **|>**. The one we are introduced to is universal and works everywhere in RStudios. The first piping tool, **%>%**, only works when a program called magrittr is running. When we use tidyverse, this tool will work becasue magrittr is attached to the tidyverse package. You can also edit this shortcut by following the same steps we outlined earlier for **Ctrl+Y**  
