@@ -102,7 +102,7 @@ You are able to use **Ctrl+Enter** (**Command+return** for macbook users) to eas
 
 By using **Ctrl+Alt+I** (**Command+Option+I** for mackbook users), you can easilty make a new coding chunck in your markdown file. This will become more useful for when you get in to writing your final project. 
 
-### Aditional R-related Shortcuts
+## Aditional R-related Shortcuts
 
 -   **Ctrl+Shift+M**: inserts a piping tool
 
