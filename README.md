@@ -39,7 +39,9 @@ These keyboard shortcuts are helpful while using google chrome and other simmila
 
 
 
-### Additional Computer Shortcuts
+
+
+## Additional Computer Shortcuts
 #### (If you want to be fancy) 
 
 -   **Ctrl+Z**: undo
