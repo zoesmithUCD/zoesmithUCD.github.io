@@ -82,7 +82,7 @@ By using **Win+↑** (**Command+Ctrl+F for macbook users) you are able to easily
  
 ## R-related shortcuts
 
-R-Studios has a lot of great keyboard shortcuts that can save you time while coding. We have compiled a list of some that will be the most usefull for us in WFC 70. You can find a full list of R-related shortcuts by going to R-studios webcite, where they have compiled a couple different master sheets depending on what **program** (is this the correct term?) you're using. 
+R-Studios has a lot of great keyboard shortcuts that can save you time while coding. We have compiled a list of some that will be the most usefull for us in WFC 70. You can find a full list of R-related shortcuts by going to R-studios webcite, where they have compiled a couple different master sheets depending on what program you're using. 
 
 You can also easily see a list of shortcuts while in R-studios by clicling **Tools > Keyboard Shortcut Help**. Another way to view this is by using a keyboard shotcut yourself! To access this, type **Alt+Shift+K** for windows users or **Option+Shift+K** for macbook users. 
 
