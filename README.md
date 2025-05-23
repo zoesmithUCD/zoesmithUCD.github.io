@@ -6,7 +6,7 @@
 4. Eliminates the possibility of misclicking
 
 ## Computer shortcuts
-
+These shortcuts should work whether or not you are in RStudios, and are helpful for everyday use. 
 
 ### Switching Tabs  
 <video width="720" height="540" controls loop="" muted="" autoplay="">
@@ -32,10 +32,12 @@ These keyboard shortcuts are helpful while using google chrome and other simmila
 **Alt+Tab** (or **Command+Tab** for macbook users), allows us to quickly switch between windows (e.g. between Google and RStudio). To move in the other direction, use **Alt+Shift+Tab**. Both of these commands can be held down to view a menu of all the windows, or quickly executed to toggle between windows. 
 
 
-### 
+### Moving Windows
 <video width="720" height="540" controls loop="" muted="" autoplay="">
     <source src="https://github.com/user-attachments/assets/7e2fe559-58bc-42bf-bd72-6a9fdad71045">
 </video>
+
+By using **Win+↑** (**Command+Ctrl+F for macbook users) you are able to easily make a current window full screen. Since RStudio opens by default in windowed mode, it is helpful to use this every time it's opened. There are other simmilar movements you can make with your widows tat we have listed below int he additional computer shortcuts section. 
 
 
 
@@ -108,15 +110,15 @@ By using **Ctrl+Alt+I** (**Command+Option+I** for mackbook users), you can easil
 
           -  Note: this piping took is not the same one you will be introduced to in lab. It will look like this %>% insted of this l> . The one we are introduced to is universal and works everywhere in RStudios. The first piping tool, %>%, only works when a program called magrittr is running. When we use tidyverse, this tool will work becasue magrittr is attached to the tidyverse package. You can also edit this shortcut by following the same steps we outlined earlier for **Ctrl+Y**
        
--    **Shift+Home**:
+-    **Shift+Home**: Selects all text to the left of the cursor in the current line 
   
--    **Shift+End**:
+-    **Shift+End**: Selects all text to the right of the cursor in the current line 
   
--    **Ctrl+Home**:
+-    **Ctrl+Home**: Navigates cursor to the begining of the file 
 
       -    **Command+UP** for macbook users
     
--    **Ctrl+End**: 
+-    **Ctrl+End**: Navigates cursor to the end of the file 
 
       -     **Command+Down** for macbook users
  
