@@ -7,7 +7,7 @@
 
 ## Computer shortcuts
 
-### Switching Tabs (this is the wrong video, need to cut the begining) 
+### Switching Tabs  
 <video width="720" height="540" controls loop="" muted="" autoplay="">
     <source src="https://github.com/user-attachments/assets/925f4f59-ff14-4acc-88e7-d2b50d23a74c">
 </video>
@@ -20,11 +20,6 @@
 </video>
 
 These keyboard shortcuts are helpful while using google chrome and other simmilar browsers. **Ctrl+T** opens a new tab, while **Ctrl+W** will close the tab that you're on. If you want to get a bit more bold, **Ctrl+Shift+W** will close all the tabs in your current window. I know we all have closed out of a tab we didn't mean to before, and have had to go and find it in our search history. With the shortcut, **Ctrl+Shift+T**, you are able to reopen the last closed tab in your browser. For macbook users, just substitute the **Ctrl** for **Commmand** and you're all set!
-
-
-
-
-
 
 
 <video width="720" height="440" controls loop="" muted="" autoplay="">
