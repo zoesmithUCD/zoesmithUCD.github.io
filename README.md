@@ -17,7 +17,7 @@ These shortcuts should work whether or not you are in RStudios, and are helpful 
 
 
 ### Adding and Deleating Tabs
-<video width="720" height="540" controls loop="" muted="" autoplay="">
+<video width="720" height="540" controls loop="" muted="">
     <source src="https://github.com/user-attachments/assets/a738fb82-7b81-40b0-abe8-4c4d8c116c75">
 </video>
 
@@ -25,7 +25,7 @@ These keyboard shortcuts are helpful while using google chrome and other simmila
 
 
 ### Switching Between Windows
-<video width="720" height="500" controls loop="" muted="" autoplay="">
+<video width="720" height="500" controls loop="" muted="">
     <source src="https://github.com/user-attachments/assets/e6efeeeb-c63e-4173-af58-0b75eb20ed43">
 </video>
 
@@ -33,7 +33,7 @@ These keyboard shortcuts are helpful while using google chrome and other simmila
 
 
 ### Moving Windows
-<video width="720" height="540" controls loop="" muted="" autoplay="">
+<video width="720" height="540" controls loop="" muted="">
     <source src="https://github.com/user-attachments/assets/7e2fe559-58bc-42bf-bd72-6a9fdad71045">
 </video>
 
@@ -88,7 +88,7 @@ You can also easily see a list of shortcuts while in R-studios by clicling **Too
 
 
 ### 1) Running your code
-<video width="720" height="540" controls loop="" muted="" autoplay="">
+<video width="720" height="540" controls loop="" muted="">
     <source src="https://github.com/user-attachments/assets/8dd5f53e-f22d-4747-8247-3d18a2a529a5">
 </video>
 
@@ -96,7 +96,7 @@ You are able to use **Ctrl+Enter** (**Command+return** for macbook users) to eas
 
 
 ### 2) Interting a Code Chunk
-<video width="720" height="540" controls loop="" muted="" autoplay="">
+<video width="720" height="540" controls loop="" muted="">
     <source src="https://github.com/user-attachments/assets/331fd760-12a5-4c5d-8027-b204ed0b209a">
 </video>
 
