@@ -1,4 +1,7 @@
 # WFC 70: Data Shortcuts and Their Uses
+Keyboard shortcuts are a combination of keys, that when presed, preform a certan command on your computer. Comands can range from copying a piece of information, to switching to a new window. They are there to make doing certan tasks much faster and smoother, by bypasing mouse clicks and keeping both hands on the keyboard. Most Shortcuts are universal, which means they work in many different applications. RStudio does have some differences though that will be pointed out later in the article. 
+
+
 
 
 ## Why Should we Learn Shortcuts?
@@ -8,7 +11,7 @@
 4. Eliminates the possibility of misclicking
 
 ## Computer shortcuts
-These shortcuts should work whether or not you are in RStudios, and are helpful for everyday use. 
+These shortcuts should work whether or not you are in RStudios, and are helpful for everyday use.  
 
 ### Switching Tabs  
 <video width="720" height="540" controls loop="" muted="">
