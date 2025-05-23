@@ -8,26 +8,26 @@
 ## Computer shortcuts
 
 ### Switching Tabs  
-<video width="720" height="540" controls loop="" muted="" autoplay="">
-    <source src="https://github.com/user-attachments/assets/925f4f59-ff14-4acc-88e7-d2b50d23a74c">
-</video>
+                        <video width="720" height="540" controls loop="" muted="" autoplay="">
+                            <source src="https://github.com/user-attachments/assets/925f4f59-ff14-4acc-88e7-d2b50d23a74c">
+                        </video>
 
 **Ctrl+Tab** allows us to switch tabs in google chrome or RStudio without having to move our cursor. 
 
 ### Adding and Deleating Tabs
-<video width="720" height="440" controls loop="" muted="" autoplay="">
+<video width="720" height="540" controls loop="" muted="" autoplay="">
     <source src="https://github.com/user-attachments/assets/a738fb82-7b81-40b0-abe8-4c4d8c116c75">
 </video>
 
 These keyboard shortcuts are helpful while using google chrome and other simmilar browsers. **Ctrl+T** opens a new tab, while **Ctrl+W** will close the tab that you're on. If you want to get a bit more bold, **Ctrl+Shift+W** will close all the tabs in your current window. I know we all have closed out of a tab we didn't mean to before, and have had to go and find it in our search history. With the shortcut, **Ctrl+Shift+T**, you are able to reopen the last closed tab in your browser. For macbook users, just substitute the **Ctrl** for **Commmand** and you're all set!
 
 
-<video width="720" height="440" controls loop="" muted="" autoplay="">
+<video width="720" height="540" controls loop="" muted="" autoplay="">
     <source src="https://github.com/user-attachments/assets/e6efeeeb-c63e-4173-af58-0b75eb20ed43">
 </video>
 
 
-<video width="720" height="440" controls loop="" muted="" autoplay="">
+<video width="720" height="540" controls loop="" muted="" autoplay="">
     <source src="https://github.com/user-attachments/assets/7e2fe559-58bc-42bf-bd72-6a9fdad71045">
 </video>
 
@@ -78,7 +78,7 @@ You can also easily see a list of shortcuts while in R-studios by clicling **Too
 
 
 ### 1) Running your code
-<video width="720" height="440" controls loop="" muted="" autoplay="">
+<video width="720" height="540" controls loop="" muted="" autoplay="">
     <source src="https://github.com/user-attachments/assets/8dd5f53e-f22d-4747-8247-3d18a2a529a5">
 </video>
 
@@ -86,7 +86,7 @@ You are able to use **Ctrl+Enter** (**Command+return** for macbook users) to eas
 
 
 ### 2) Interting a Code Chunk
-<video width="720" height="440" controls loop="" muted="" autoplay="">
+<video width="720" height="540" controls loop="" muted="" autoplay="">
     <source src="https://github.com/user-attachments/assets/331fd760-12a5-4c5d-8027-b204ed0b209a">
 </video>
 
