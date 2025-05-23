@@ -7,7 +7,6 @@
 
 ## Computer shortcuts
 
-
 <video width="720" height="440" controls loop="" muted="" autoplay="">
     <source src="https://github.com/user-attachments/assets/5a489ebb-a250-41f1-a0c6-918cfc7b6c04">
 </video>
