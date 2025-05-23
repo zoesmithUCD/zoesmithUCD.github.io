@@ -1,4 +1,6 @@
 # WFC 70: Data Shortcuts and Their Uses
+
+
 ## Why Should we Learn Shortcuts?
 1. Making workflows more efficient
 2. Increase productivity
@@ -108,7 +110,7 @@ By using **Ctrl+Alt+I** (**Command+Option+I** for mackbook users), you can easil
 
       -  **Command+Shift+M** for macbook users
 
-          -  Note: this piping took is not the same one you will be introduced to in lab. It will look like this %>% insted of this l> . The one we are introduced to is universal and works everywhere in RStudios. The first piping tool, %>%, only works when a program called magrittr is running. When we use tidyverse, this tool will work becasue magrittr is attached to the tidyverse package. You can also edit this shortcut by following the same steps we outlined earlier for **Ctrl+Y**
+          -  Note: this piping took is not the same one you will be introduced to in lab. It will look like this %>% insted of this l> . The one we are introduced to is universal and works everywhere in RStudios. The first piping tool, %>%, only works when a package called magrittr is loaded. When we use tidyverse, this tool will work becasue magrittr is attached to the tidyverse package. You can also edit this shortcut by following the same steps we outlined earlier for **Ctrl+Y**
        
 -    **Shift+Home**: Selects all text to the left of the cursor in the current line 
   
@@ -116,10 +118,10 @@ By using **Ctrl+Alt+I** (**Command+Option+I** for mackbook users), you can easil
   
 -    **Ctrl+Home**: Navigates cursor to the begining of the file 
 
-      -    **Command+UP** for macbook users
+      -    **Command+↑** (Up arrow) for macbook users
     
 -    **Ctrl+End**: Navigates cursor to the end of the file 
 
-      -     **Command+Down** for macbook users
+      -  **Command+↓** (Down arrow) for macbook users
  
   
