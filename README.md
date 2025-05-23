@@ -9,7 +9,7 @@
 These shortcuts should work whether or not you are in RStudios, and are helpful for everyday use. 
 
 ### Switching Tabs  
-<video width="720" height="540" controls loop="" muted="" autoplay="">
+<video width="720" height="540" controls loop="" muted="">
     <source src="https://github.com/user-attachments/assets/925f4f59-ff14-4acc-88e7-d2b50d23a74c">
 </video>
 
